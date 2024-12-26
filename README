@@ -1,0 +1,1 @@
+This notepad lets you do all of the actions a normal notepad would create/edit/open and lets you also cypher and decypher with 2 set algorithms letting you set the password required, it's also has the option to send to a server (socket) that saves the files, password and the name given to the document in a mongo db
